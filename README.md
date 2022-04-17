@@ -10,3 +10,9 @@
 輸出.txt 是轉換後的繁體字
 
 程式是readwrite.py 
+
+------------------------------------------------------------------------
+
+此為訓練語言模型前的前處理
+
+如何訓練語言模型:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
