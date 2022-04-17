@@ -1,6 +1,8 @@
 # Python-OpenCC-zh-cn_translate_to_zh-tw
 使用OpenCC套件，將簡體字轉繁體字
 
+此為訓練語言模型前的前處理
+
 請先安裝套件 pip install opencc
 
 輸入指令:python readwrite.py
@@ -12,7 +14,10 @@
 程式是readwrite.py 
 
 ------------------------------------------------------------------------
-
-此為訓練語言模型前的前處理
+# 如何訓練詞向量
 
 如何訓練語言模型:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
+
+------------------------------------------------------------------------
+# Python-OpenCC-zh-cn_translate_to_zh-tw
+https://github.com/yichen0831/opencc-python
