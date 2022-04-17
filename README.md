@@ -19,5 +19,5 @@
 如何訓練語言模型:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
 
 ------------------------------------------------------------------------
-# Python-OpenCC-zh-cn_translate_to_zh-tw
+# 出處
 https://github.com/yichen0831/opencc-python
